@@ -207,7 +207,7 @@ Computer Use 在 Canva 里实操组装画像。
 
 ### 3D 世界与建模
 
-- **入画 · WITHIN** — 18 景浏览器三维画馆，展卷、漫游、步行与 Roadster 驾驶。作者自述全部使用 GPT-6 Astra（中 / 高推理）辅助开发，经多轮迭代。[fatasia](https://github.com/fatasia) · [源码](https://github.com/fatasia/within) · [体验](https://fatasia.github.io/within/) · [实机合集](https://fatasia.github.io/within/showcase/index.html) · [模型说明](https://github.com/fatasia/within/blob/main/docs/CREATION.md) · 2026-10-19
+- **入画 · WITHIN** — 18 景浏览器三维画馆，展卷、漫游、步行与 Roadster 驾驶。作者自述全部使用 GPT-6 Astra（中 / 高推理）辅助开发，经多轮迭代。[fatasia](https://github.com/fatasia) · [源码](https://github.com/fatasia/within) · [体验](https://fatasia.github.io/within/) · [实机合集](https://fatasia.github.io/within/showcase/index.html) · [模型说明](https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/126) · 2026-10-19
 - **房子照片 → 完整 Blender 场景** — 家具玩具都在，可 60fps 浏览。[tomkrcha](https://x.com/tomkrcha) · [original](https://x.com/tomkrcha/status/2095598645190291775) · 09-03
 - **火车草图 → 3295 个可编辑物体** — 同作者的工程级 3D。[tomkrcha](https://x.com/tomkrcha) · [original](https://x.com/tomkrcha/status/2095756085890310311) · 09-04
 - **椭圆形办公室** — Astra 写几何，视频模型收尾。[higgsfield_ai](https://x.com/higgsfield_ai) · [original](https://x.com/higgsfield_ai/status/2095630197257367857) · 09-03
@@ -2421,7 +2421,7 @@ Original curated text and artwork in this repository are dedicated to the public
 - **[三分天下 · 百将风云 / Three Kingdoms: Hundred Heroes](https://sanguo-jiangshan.vercel.app)** — 选择魏、蜀、吴，在 15 城地图上经营金粮、指挥拥有独立 AI 生成头像的 108 名武将，以回合制征战对抗 AI 势力，争夺天下统一。
   - 作者：[MartinDelophy](https://github.com/MartinDelophy)（项目发起人及提交者）。
   - 平台：现代浏览器，中文界面，鼠标与触控操作；免费，无需登录或 API Key，本地存档支持导入导出。
-  - GPT-6 Astra：[创作记录](works/three-kingdoms/CREATION.md) — 作者确认使用，通过 Codex 多轮协作完成规则、界面、AI、平衡与测试；地形和武将头像另由图像生成工具制作。
+  - GPT-6 Astra：[作者投稿](works/three-kingdoms/CREATION.md) — 作者确认使用，通过 Codex 多轮协作完成规则、界面、AI、平衡与测试；地形和武将头像另由图像生成工具制作。
   - 开发资料：[源码与运行说明](works/three-kingdoms/README.md) · [需求记录](works/three-kingdoms/PROMPTS.md) · 技术：React、TypeScript、Vinext/Vite。
   - 预览：![三分天下实机画面：水墨城池地图、资源操作与武将头像。](assets/screenshots/three-kingdoms/gameplay.jpg)
 
